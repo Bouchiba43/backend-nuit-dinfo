@@ -1,0 +1,640 @@
+[
+    {
+        "id": 1,
+        "title": "General Knowledge Quiz",
+        "duration": 15,
+        "difficulty": "easy",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Lequel des systèmes suivants du corps humain est similaire aux courants océaniques dans la distribution des éléments essentiels ?",
+                "options": [
+                    "Système respiratoire",
+                    "Système circulatoire",
+                    "Système digestif",
+                    "Système nerveux"
+                ],
+                "index_correct_option": 1,
+                "mark": 2
+            },
+            {
+                "id": 2,
+                "text": "Quelle est la fonction principale du système circulatoire du corps humain et des courants océaniques ?",
+                "options": [
+                    " Pour réguler la température",
+                    "Pour transporter les nutriments et éliminer les déchets",
+                    "Créer de l'énergie",
+                    "Pour maintenir l'homéostasie"
+                ],
+                "index_correct_option": 1,
+                "mark": 2
+            },
+            {
+                "id": 3,
+                "text": "Comment le corps humain et l’océan régulent-ils la température ?",
+                "options": [
+                    "En absorbant et en distribuant la chaleur",
+                    "En produisant de l'électricité",
+                    "En déplaçant des masses d'air",
+                    "En créant des modèles de vent"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+            },
+            {
+                "id": 4,
+                "text": "À quel système les écosystèmes océaniques ressemblent-ils dans le corps humain ?",
+                "options": [
+                    "Système nerveux",
+                    " Système immunitaire",
+                    "Système digestif",
+                    "Microbiome (par exemple, bactéries intestinales)"
+                ],
+                "index_correct_option": 1,
+                "mark": 2
+            },
+            {
+                "id": 5,
+                "text": "Lequel de ces processus est un processus sur lequel l’océan et le corps humain s’appuient pour maintenir leur équilibre ?",
+                "options": [
+                    "Cycles de marée et cycles respiratoires",
+                    "Photosynthèse et respiration cellulaire",
+                    "Sommeil et rythmes circadiens",
+                    "Cycle des nutriments et régulation hormonale"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+            },
+            {
+                "id": 6,
+                "text": "Quelle caractéristique du système immunitaire du corps humain est comparable à la biodiversité de l’océan pour maintenir la santé ?",
+                "options": [
+                  "Globules blancs",
+                  "Enzymes digestives",
+                  "Micro-organismes",
+                  "Globules rouges"
+                ],
+                "index_correct_option": 2,
+                "mark": 2
+              },
+              {
+                "id": 7,
+                "text": "Quel facteur majeur aide le corps humain et l’océan à maintenir leur équilibre et à s’adapter aux changements environnementaux ?",
+                "options": [
+                  "Cycles (comme le cycle de l'eau ou les rythmes circadiens)",
+                  "Sources d'énergie externes (comme la nourriture ou la lumière du soleil)",
+                  "Mouvement de l'air",
+                  "Mutations génétiques"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              },
+              {
+                "id": 8,
+                "text": "Le corps humain et l’océan sont tous deux confrontés à des défis liés à des facteurs externes. Qu’est-ce qu’une vulnérabilité partagée ?",
+                "options": [
+                  "Vieillissement",
+                  "Pollution et toxines",
+                  "Manque d'oxygène",
+                  "Manque de soleil"
+                ],
+                "index_correct_option": 1,
+                "mark": 2
+              },
+              {
+                "id": 9,
+                "text": "Quel concept décrit comment le corps humain et l’océan dépendent de l’interaction de divers composants (comme les organes ou les écosystèmes) pour fonctionner correctement ?",
+                "options": [
+                  "Homéostasie",
+                  "Évolution",
+                  "Interdépendance",
+                  "Isolement"
+                ],
+                "index_correct_option": 2,
+                "mark": 2
+              },
+              {
+                "id": 10,
+                "text": "Laquelle de ces caractéristiques est une caractéristique partagée par les écosystèmes du corps humain et de l’océan ?",
+                "options": [
+                  "Les deux contiennent diverses formes de vie essentielles à l’équilibre",
+                  "Les deux dépendent entièrement de la lumière du soleil pour leur énergie",
+                  "Les deux contiennent un seul type d’organisme",
+                  "Les deux fonctionnent sans aucune interaction externe"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "medium",
+        "duration": 13,
+        "difficulty": "medium",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Quelle partie du corps humain fonctionne de manière similaire à la surface de l’océan en termes de protection et d’interaction avec l’environnement ?",
+                "options": [
+                  "Peau",
+                  "Coeur",
+                  "Cerveau",
+                  "Poumons"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              },
+              {
+                "id": 2,
+                "text": "La manière dont l’océan contribue à réguler les températures mondiales est très similaire à celle du corps humain :",
+                "options": [
+                  "Filtre les déchets du sang",
+                  "Contrôle sa température interne par la transpiration et les frissons",
+                  "Digère la nourriture",
+                  "Reçoit et traite les informations sensorielles"
+                ],
+                "index_correct_option": 1,
+                "mark": 2
+              },
+              {
+                "id": 3,
+                "text": "En quoi le système immunitaire du corps humain est-il similaire à la biodiversité de l’océan ?",
+                "options": [
+                  "Les deux protègent le système des menaces externes",
+                  "Les deux fonctionnent comme la principale source d’énergie",
+                  "Les deux ont besoin d’oxygène pour survivre",
+                  "Les deux sont seuls responsables de la digestion"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              },
+              {
+                "id": 4,
+                "text": "Lequel de ces éléments est un exemple de « circulation » de l’océan et comment se compare-t-il à celui du corps humain ?",
+                "options": [
+                  "Les courants océaniques distribuent les nutriments comme les vaisseaux sanguins distribuent l'oxygène",
+                  "Les marées de l’océan se déplacent selon un schéma semblable à celui des battements de cœur",
+                  "L'évaporation de l'eau et la circulation sanguine ne sont pas liées",
+                  "La vie marine se reproduit de manière similaire à la division cellulaire humaine"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              },
+              {
+                "id": 5,
+                "text": "Le corps humain et l’océan dépendent de cycles pour maintenir leur stabilité. Lequel de ces cycles constitue un cycle clé pour les deux ?",
+                "options": [
+                  "Cycle de l'azote",
+                  "Cycle du carbone",
+                  "Cycle hydrologique",
+                  "Cycle de reproduction"
+                ],
+                "index_correct_option": 2,
+                "mark": 2
+              },
+              {
+                "id": 6,
+                "text": "Quelle est la similitude majeure entre la façon dont l’océan et le corps humain réagissent aux changements environnementaux extrêmes ?",
+                "options": [
+                  "Les deux peuvent s’adapter au fil du temps, mais sont vulnérables à des changements rapides et spectaculaires.",
+                  "Les deux peuvent se remettre instantanément de tout dommage",
+                  "Ni l’un ni l’autre n’est affecté par les changements de leur environnement",
+                  "Les deux nécessitent des systèmes de soutien externes pour fonctionner"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              },
+              {
+                "id": 7,
+                "text": "Le système circulatoire du corps humain et les cycles des nutriments de l’océan sont tous deux importants pour :",
+                "options": [
+                  "Gaz en mouvement comme l'oxygène",
+                  "Faciliter le mouvement",
+                  "Distribution et recyclage des nutriments",
+                  "Filtrage des déchets"
+                ],
+                "index_correct_option": 2,
+                "mark": 2
+              },
+              {
+                "id": 8,
+                "text": "Lequel de ces énoncés est vrai concernant le microbiome du corps humain et les écosystèmes océaniques ?",
+                "options": [
+                  "Les deux sont des exemples de communautés complexes qui dépendent les unes des autres pour prospérer.",
+                  "Les deux fonctionnent indépendamment de tout autre système",
+                  "Les deux sont contrôlés par des sources d'énergie externes",
+                  "Les deux ne sont constitués que d’un seul type d’organisme"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              },
+              {
+                "id": 9,
+                "text": "La façon dont les organes du corps humain travaillent ensemble pour soutenir la vie est similaire à la façon dont :",
+                "options": [
+                  "Les écosystèmes océaniques interagissent pour maintenir l'équilibre environnemental",
+                  "Le soleil régule la température",
+                  "Les rochers influencent les marées",
+                  "Le vent provoque l’évaporation"
+                ],
+                "index_correct_option": 0,
+                "mark": 2
+              },
+              {
+                "id": 10,
+                "text": "Lequel de ces systèmes humains ressemble le plus au rôle de l’océan dans la régulation du climat de la Terre ?",
+                "options": [
+                  "Système digestif",
+                  "Système respiratoire",
+                  "Système nerveux",
+                  "Système endocrinien"
+                ],
+                "index_correct_option": 1,
+                "mark": 2
+              }]
+            },
+            {
+                "id": 3,
+                "title": "hard",
+                "duration": 8,
+                "difficulty": "hard",
+                "questions": [
+                    {
+                        "id": 1,
+                        "text": "L’océan et le corps humain dépendent du mouvement des fluides. Quel fluide du corps ressemble le plus à l’eau de l’océan en termes de transport de substances vitales ?",
+                        "options": [
+                            "Lymphe",
+                            "Sang",
+                            "Liquide synovial",
+                            "La salive"
+                        ],
+                        "index_correct_option": 1,
+                        "mark": 2
+                    },
+                    {
+                        "id": 2,
+                        "text": "Quelle caractéristique de l’océan est comparable à la capacité du corps humain à s’adapter aux changements environnementaux au fil du temps ?",
+                        "options": [
+                            "Les courants océaniques",
+                            "Les marées",
+                            " L'adaptabilité des espèces marines aux différents écosystèmes",
+                            "Les tempêtes"
+                        ],
+                        "index_correct_option": 2,
+                        "mark": 2
+                    },
+                    {
+                        "id": 3,
+                        "text": "Comment le corps humain et l’océan contribuent-ils tous deux au maintien de l’homéostasie face aux changements extérieurs ?",
+                        "options": [
+                            "Grâce à une régulation active des conditions internes (par exemple, température, pH, salinité)",
+                            "En éliminant les déchets et en régulant les nutriments",
+                            "En créant des modèles de vent",
+                            "En produisant de l'énergie"
+                        ],
+                        "index_correct_option": 0,
+                        "mark": 2
+                    },
+                    {
+                        "id": 4,
+                        "text": "Quel processus océanique ressemble le plus à la façon dont le corps humain expulse les déchets ?",
+                        "options": [
+                            "Évaporation des océans",
+                            "Courants océaniques dispersant les polluants",
+                            "Remontée océanique de nutriments",
+                            "Absorption océanique du dioxyde de carbone"
+                        ],
+                        "index_correct_option": 1,
+                        "mark": 2
+                    },
+                    {
+                        "id": 5,
+                        "text": "Le corps humain et l’océan disposent de réseaux de communication complexes. Laquelle de ces similitudes présente une similitude ?",
+                        "options": [
+                            "Impulsions électriques dans le système nerveux et signaux chimiques dans l'océan",
+                            "Photosynthèse et respiration cellulaire",
+                            "Cycles de marée et cycles respiratoires",
+                            "Digestion et absorption des nutriments"
+                        ],
+                        "index_correct_option": 0,
+                        "mark": 2
+                    },
+                    {
+                        "id": 6,
+                        "text": "Quelle caractéristique de l’océan ressemble le plus à la capacité du corps humain à se « nettoyer » ou à se détoxifier ?",
+                        "options": [
+                            "Filtration des océans à travers les récifs coralliens",
+                            "Filtration naturelle des océans à travers le plancton",
+                            "Le foie humain traitant les toxines",
+                            "Le mélange des couches d'eau de l'océan pour éliminer les contaminants"
+                        ],
+                        "index_correct_option": 2,
+                        "mark": 2
+                    },
+                    {
+                        "id": 7,
+                        "text": "Le corps humain et l’océan sont susceptibles d’être endommagés par la pollution. Quel est l’impact de la pollution sur les deux ?",
+                        "options": [
+                            "Les deux peuvent s’adapter et s’améliorer au fil du temps",
+                            "Tous deux subissent des dommages à long terme qui perturbent leur équilibre",
+                            "La pollution n’affecte que l’un mais pas l’autre",
+                            "Les deux peuvent se rétablir immédiatement une fois la pollution éliminée"
+                        ],
+                        "index_correct_option": 1,
+                        "mark": 2
+                    },
+                    {
+                        "id": 8,
+                        "text": "Le système lymphatique du corps humain aide à combattre les infections et à éliminer les déchets. Quelle caractéristique océanique fonctionne de la même manière ?",
+                        "options": [
+                            "Le fond de l'océan",
+                            "La circulation des eaux profondes de l’océan",
+                            "Les remontées d'eau riches en nutriments de l'océan",
+                            "Les écosystèmes côtiers de l’océan filtrant les polluants"
+                        ],
+                        "index_correct_option": 3,
+                        "mark": 2
+                    },
+                    {
+                        "id": 9,
+                        "text": "Parmi les éléments suivants, lequel est une fonction clé du corps humain et de l’océan qui soutient la vie ?",
+                        "options": [
+                            "Échange d'oxygène (par exemple, poumons et plancton océanique)",
+                            "Températures extrêmes (par exemple, fièvre ou eaux glaciales)",
+                            "Pression constante (par exemple, pression artérielle et pression de l'eau)",
+                            "Manque de mouvement (par exemple, eau calme et cellules immobiles)"
+                        ],
+                        "index_correct_option": 0,
+                        "mark": 2
+                    },
+                    {
+                        "id": 10,
+                        "text": "En quoi la peau du corps humain et la surface de l’océan sont-elles similaires en termes de protection ?",
+                        "options": [
+                            "Les deux agissent comme une barrière contre les facteurs externes nocifs (par exemple, les rayons UV, les polluants)",
+                            "Les deux absorbent l’énergie provenant de sources externes",
+                            "Les deux génèrent de l’énergie pour les processus internes",
+                            "Les deux sont rigides et immuables"
+                        ],
+                        "index_correct_option": 0,
+                        "mark": 2
+                    }
+                ]
+            },
+{
+    "id": 4,
+    "title": "very-hard",
+    "duration": 8,
+    "difficulty": "very-hard",
+    "questions": [
+        {
+            "id": 1,
+            "text": "Quel est l’équivalent de la « pression artérielle » du corps humain dans l’océan ?",
+            "options": [
+                "Le niveau de salinité de l'eau",
+                "La force ou la pression du courant océanique",
+                "La concentration en oxygène de l'océan",
+                "La température de l'eau"
+            ],
+            "index_correct_option": 1,
+            "mark": 2
+        },
+        {
+            "id": 2,
+            "text": "Quel aspect de la réponse du corps humain aux stimuli externes est similaire à la réaction de l’océan aux tempêtes ou aux conditions extrêmes ?",
+            "options": [
+                "Réponse inflammatoire",
+                "Activation du système immunitaire",
+                "Régulation de la température",
+                "Adaptation et récupération après une perturbation"
+            ],
+            "index_correct_option": 3,
+            "mark": 2
+        },
+        {
+            "id": 3,
+            "text": "Le corps humain et l’océan dépendent des cycles pour maintenir leur stabilité. Lequel des énoncés suivants décrit le mieux l’un de ces cycles ?",
+            "options": [
+                "Les marées de l’océan et le rythme circadien du corps humain",
+                "Les deux systèmes dépendent uniquement de sources d'énergie externes pour leur stabilité",
+                "Les deux systèmes manquent de cycles et reposent sur un changement constant",
+                "Les deux systèmes fonctionnent isolément sans aucun cycle"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 4,
+            "text": "Lequel des énoncés suivants décrit le mieux la manière dont les cellules du corps humain communiquent entre elles par rapport aux écosystèmes océaniques ?",
+            "options": [
+                "Les deux utilisent des signaux chimiques pour maintenir l’équilibre",
+                "Les deux utilisent des impulsions électriques pour transmettre des informations",
+                "Les deux dépendent de signaux externes comme la lumière du soleil",
+                "Les deux sont immunisés contre les changements de leur environnement"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 5,
+            "text": "Quel système humain est le plus comparable à la capacité de l’océan à déplacer et à faire circuler les nutriments et les gaz ?",
+            "options": [
+                "Système nerveux",
+                "Système respiratoire",
+                "Système digestif",
+                "Système circulatoire"
+            ],
+            "index_correct_option": 3,
+            "mark": 2
+        },
+        {
+            "id": 6,
+            "text": "Le corps humain et l’océan subissent des changements environnementaux. Comment réagissent-ils à une baisse soudaine de température ?",
+            "options": [
+                "Le corps humain produit de la chaleur et l’eau de surface de l’océan se refroidit, se mélangeant aux couches plus profondes.",
+                "Les deux gèlent solidement et arrêtent tous les processus",
+                "Les deux augmentent leur taux métabolique pour générer de l’énergie",
+                "Les deux maintiennent une température constante quels que soient les changements externes"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 7,
+            "text": "Parmi les propositions suivantes, laquelle présente une similitude entre la façon dont le corps humain et l’océan traitent les déchets ?",
+            "options": [
+                "Les deux filtrent les déchets via des organes ou des systèmes spécialisés.",
+                "Les deux s’appuient sur des organismes externes pour traiter les déchets",
+                "Les deux éliminent les déchets sans aucun impact environnemental",
+                "Les deux conservent les déchets indéfiniment pour maintenir l’équilibre"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 8,
+            "text": "Quel processus se produit dans l’océan ? La capacité du corps humain à guérir les blessures est similaire ?",
+            "options": [
+                "Récupération des écosystèmes par les océans après des perturbations naturelles",
+                "L’océan absorbe les polluants dans les profondeurs marines",
+                "L’évaporation de la surface des océans pour rétablir l’équilibre",
+                "Les marées de l’océan emportent les débris"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 9,
+            "text": "Lequel de ces éléments compare le mieux le rôle du microbiome intestinal du corps humain à celui de la biodiversité des océans ?",
+            "options": [
+                "Les deux aident à décomposer et à traiter les nutriments",
+                "Les deux servent de zones de stockage des déchets",
+                "Les deux sont contrôlés par des forces externes comme la température",
+                "Les deux sont essentiels au maintien de la structure mais sont souvent inactifs"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 10,
+            "text": "Lequel des processus suivants dans le corps humain ressemble le plus à la façon dont l’océan régule la quantité de dioxyde de carbone dans l’atmosphère ?",
+            "options": [
+                "Les poumons échangent des gaz (oxygène et CO2)",
+                "Le foie filtrant les toxines",
+                "Le cœur qui pompe le sang",
+                "Les reins régulent l’équilibre hydrique"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        }
+    ]
+},
+{
+    "id": 5,
+    "title": "very-hard",
+    "duration": 8,
+    "difficulty": "very-hard",
+    "questions": [
+        {
+            "id": 1,
+            "text": "Quel est l’équivalent de la « pression artérielle » du corps humain dans l’océan ?",
+            "options": [
+                "Le niveau de salinité de l'eau",
+                "La force ou la pression du courant océanique",
+                "La concentration en oxygène de l'océan",
+                "La température de l'eau"
+            ],
+            "index_correct_option": 1,
+            "mark": 2
+        },
+        {
+            "id": 2,
+            "text": "Quel aspect de la réponse du corps humain aux stimuli externes est similaire à la réaction de l’océan aux tempêtes ou aux conditions extrêmes ?",
+            "options": [
+                "Réponse inflammatoire",
+                "Activation du système immunitaire",
+                "Régulation de la température",
+                "Adaptation et récupération après une perturbation"
+            ],
+            "index_correct_option": 3,
+            "mark": 2
+        },
+        {
+            "id": 3,
+            "text": "Le corps humain et l’océan dépendent des cycles pour maintenir leur stabilité. Lequel des énoncés suivants décrit le mieux l’un de ces cycles ?",
+            "options": [
+                "Les marées de l’océan et le rythme circadien du corps humain",
+                "Les deux systèmes dépendent uniquement de sources d'énergie externes pour leur stabilité",
+                "Les deux systèmes manquent de cycles et reposent sur un changement constant",
+                "Les deux systèmes fonctionnent isolément sans aucun cycle"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 4,
+            "text": "Lequel des énoncés suivants décrit le mieux la manière dont les cellules du corps humain communiquent entre elles par rapport aux écosystèmes océaniques ?",
+            "options": [
+                "Les deux utilisent des signaux chimiques pour maintenir l’équilibre",
+                "Les deux utilisent des impulsions électriques pour transmettre des informations",
+                "Les deux dépendent de signaux externes comme la lumière du soleil",
+                "Les deux sont immunisés contre les changements de leur environnement"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 5,
+            "text": "Quel système humain est le plus comparable à la capacité de l’océan à déplacer et à faire circuler les nutriments et les gaz ?",
+            "options": [
+                "Système nerveux",
+                "Système respiratoire",
+                "Système digestif",
+                "Système circulatoire"
+            ],
+            "index_correct_option": 3,
+            "mark": 2
+        },
+        {
+            "id": 6,
+            "text": "Le corps humain et l’océan subissent des changements environnementaux. Comment réagissent-ils à une baisse soudaine de température ?",
+            "options": [
+                "Le corps humain produit de la chaleur et l’eau de surface de l’océan se refroidit, se mélangeant aux couches plus profondes.",
+                "Les deux gèlent solidement et arrêtent tous les processus",
+                "Les deux augmentent leur taux métabolique pour générer de l’énergie",
+                "Les deux maintiennent une température constante quels que soient les changements externes"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 7,
+            "text": "Parmi les propositions suivantes, laquelle présente une similitude entre la façon dont le corps humain et l’océan traitent les déchets ?",
+            "options": [
+                "Les deux filtrent les déchets via des organes ou des systèmes spécialisés.",
+                "Les deux s’appuient sur des organismes externes pour traiter les déchets",
+                "Les deux éliminent les déchets sans aucun impact environnemental",
+                "Les deux conservent les déchets indéfiniment pour maintenir l’équilibre"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 8,
+            "text": "Quel processus se produit dans l’océan ? La capacité du corps humain à guérir les blessures est similaire ?",
+            "options": [
+                "Récupération des écosystèmes par les océans après des perturbations naturelles",
+                "L’océan absorbe les polluants dans les profondeurs marines",
+                "L’évaporation de la surface des océans pour rétablir l’équilibre",
+                "Les marées de l’océan emportent les débris"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 9,
+            "text": "Lequel de ces éléments compare le mieux le rôle du microbiome intestinal du corps humain à celui de la biodiversité des océans ?",
+            "options": [
+                "Les deux aident à décomposer et à traiter les nutriments",
+                "Les deux servent de zones de stockage des déchets",
+                "Les deux sont contrôlés par des forces externes comme la température",
+                "Les deux sont essentiels au maintien de la structure mais sont souvent inactifs"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        },
+        {
+            "id": 10,
+            "text": "Lequel des processus suivants dans le corps humain ressemble le plus à la façon dont l’océan régule la quantité de dioxyde de carbone dans l’atmosphère ?",
+            "options": [
+                "Les poumons échangent des gaz (oxygène et CO2)",
+                "Le foie filtrant les toxines",
+                "Le cœur qui pompe le sang",
+                "Les reins régulent l’équilibre hydrique"
+            ],
+            "index_correct_option": 0,
+            "mark": 2
+        }
+    ]
+}]    
