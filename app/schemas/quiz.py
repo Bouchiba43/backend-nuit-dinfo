@@ -16,4 +16,6 @@ class QuizSchema(BaseModel):
 
 class AnswerSchema(BaseModel):
     quiz_id: int
-    answers: List[int]  # list of the answers for the questions
+    answers: List[int]  # list of the user's answers to the questions
+    feedback: Optional[List[str]] = None  # Feedback for each question
+    correct_answers: Optional[List[bool]] = None  # Whether each answer was correct or not
