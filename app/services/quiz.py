@@ -2,8 +2,12 @@ import json
 from typing import List, Optional
 from pathlib import Path
 from app.models.quiz import Quiz, Question
+from app.services.gpt_neo_service import GPTNeoService
+from app.services.quiz_utils import calculate_score_with_feedback
 
 QUIZ_FILE = Path(__file__).resolve().parent.parent / "data" / "quizzes.json"
+
+gpt_service = GPTNeoService()
 
 def load_quizzes() -> List[Quiz]:
     """
@@ -31,7 +35,7 @@ def load_quizzes() -> List[Quiz]:
                     title=quiz_data["title"],
                     duration=quiz_data["duration"],
                     difficulty=quiz_data["difficulty"],
-                    questions=questions,
+                    questions=questions
                 )
             )
         except KeyError as e:
@@ -39,9 +43,6 @@ def load_quizzes() -> List[Quiz]:
     return quizzes
 
 def get_quiz_by_id(quiz_id: int) -> Optional[Quiz]:
-    """
-    Get a quiz by its ID.
-    """
     quizzes = load_quizzes()
     for quiz in quizzes:
         if quiz.id == quiz_id:
